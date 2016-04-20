@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Albright\IST972 Android Development\Assignments\GCAssignment4\GCList\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_slice.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="07ffdf9e441cff40d966b21221e0deadeb0287e6">
+        <dex dex="D:\Albright\IST972 Android Development\Assignments\GCAssignment4\GCList\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_slice_9b700d6288e739fbe492170fee8d87bcb3abe97a\classes.dex" />
+    </item>
+    <item
+        jar="D:\Albright\IST972 Android Development\Assignments\GCAssignment4\GCList\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_sliceb.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5a455fc75ac71729f55f34ccfc8230b1cfaa821">
+        <dex dex="D:\Albright\IST972 Android Development\Assignments\GCAssignment4\GCList\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_sliceb_fa9ffe171227ae2b6676be9748f76e3f731e3d15\classes.dex" />
+    </item>
+
+</items>
